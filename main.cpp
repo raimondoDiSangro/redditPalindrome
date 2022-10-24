@@ -24,7 +24,7 @@ for (i = 0; i < dim; i++){
    } 
 }
 
-//Stampo FALSE o TRUE (C++ fa schifo al cazzo)
+//Stampo FALSE o TRUE (C++ fa schifo al c....)
 if (check == 0){
     cout << "\nFALSE";
 } else {
